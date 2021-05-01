@@ -21,11 +21,11 @@
 ---
 
 <h3 align="center">📫 How to reach me 📫</h3>
-<ol>
+<ul>
   <li>Linkedin = <a href="https://www.linkedin.com/in/kelvinerlangga2007/">Kelvin Erlangga</a></li>
   <li>Instagram = <a href="https://www.instagram.com/vin.200702/">vin.200702</a></li>
   <li>Email = <a href="mailto:kelvinerlangga200702@gmail.com">kelvinerlangga200702@gmail.com</a></li>
-</ol>
+</ul>
 
 <!---
 kelvin2007/kelvin2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
