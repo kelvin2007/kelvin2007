@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">💻Techonologies I Used💻</h3>
+<h3 align="center">💻 Techonologies I Used 💻</h3>
 <div align="center">
   <image src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat&logoWidth=20">
   <image src="https://img.shields.io/badge/-Java-DE2D0E?logo=java&logoColor=white&style=flat&logoWidth=20">
@@ -17,6 +17,14 @@
   <image src="https://img.shields.io/badge/-mongo-47A248?logo=mongodb&logoColor=white&style=flat&logoWidth=20">
   <image src="https://img.shields.io/badge/-Git-DF1909?logo=git&logoColor=white&style=flat&logoWidth=20">
 </div>
+    
+---
+
+<h3 align="center">📫 How to reach me 📫</h3>
+- Linkedin = <a href="https://www.linkedin.com/in/kelvinerlangga2007/">Kelvin Erlangga</a>
+- Instagram = <a href="https://www.instagram.com/vin.200702/">vin.200702</a>
+- Email = <a href="mailto:kelvinerlangga200702@gmail.com">kelvinerlangga200702@gmail.com</a>
+
 <!---
 kelvin2007/kelvin2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
