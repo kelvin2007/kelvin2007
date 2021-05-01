@@ -1,4 +1,4 @@
-<h2 styke="text-align=center"> Hey, there!! Welcome to my github pages! 👋 </h2>
+<h2 style="text-align=center"> Hey, there!! Welcome to my github pages! 👋 </h2>
 
 #### Hello, I'm Kelvin Erlangga, currently an undergraduate Information System student at University of Indonesia.  I’m interested in Data Science, Machine Learning, and Fullstack Web Development 👀. But, I’m currently learning **Web Development** and I’m looking to collaborate on Web Development 💞️.
 
