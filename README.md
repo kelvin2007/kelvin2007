@@ -17,7 +17,13 @@
   <image src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat&logoWidth=20">
   <image src="https://img.shields.io/badge/-Git-DF1909?logo=git&logoColor=white&style=flat&logoWidth=20">
 </div>
-    
+
+<p align="center">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>    
 ---
 
 <h3 align="center">📫 How to reach me 📫</h3>
