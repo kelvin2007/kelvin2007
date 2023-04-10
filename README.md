@@ -1,6 +1,6 @@
 <h2 align="center"> 👋 Hey, there!! Welcome to my github! 👋 </h2>
 
-<h4 align="justify"> Hello, I'm Kelvin Erlangga, currently an undergraduate Information System student at University of Indonesia.  I’m interested in Data Science, Machine Learning, and Fullstack Web Development 👀. But, I’m currently learning <strong><em>Web Development</em></strong> and I’m looking to collaborate on Web Development 💞️. </h4>
+<h4 align="justify"> Hello, I'm Kelvin Erlangga, currently an undergraduate Information System student at University of Indonesia.  I’m interested in Data Science, Machine Learning, and Fullstack Web Development 👀. But, I’m currently learning <strong><em>Machine Learning</em></strong> and I’m looking to collaborate on Machine Learning Projects💞️. </h4>
 
 ---
 
